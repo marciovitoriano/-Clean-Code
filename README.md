@@ -1,6 +1,6 @@
-### SEJAM BEM-VINDOS AO MEU PERFIL 
+### SEJAM BEM-VINDOS AO MEU PERFIL 💚
 
-meu nome é marcio vitoriano
+ meu nome é marcio vitoriano
 
 -Estou estudando na plataforma [Alura](hppts://www.alura.com.br)
 
@@ -8,7 +8,7 @@ meu nome é marcio vitoriano
 
 -Utiizo esse espaço para minha organização pessoal e compartilhamento dos meus projetos desenvolvidos 
 
-### VOCÊ PODE ENTRAR EM CONTATO COMIGO 
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📬
 
 00001141712064sp@al.educacao.sp.gov.br
 
